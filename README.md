@@ -2,7 +2,7 @@
 
 Bu benim neyi ne kadar öğrendiğimi anlamak için yaptığım bir frontend projesi.
 Görsellikten ziyade backendden veri çekmeye odaklandım.
-Öğrendikçe daha güzel gözüken tasarımlar yapabileceğimi düşünüyorum./
+Öğrendikçe daha güzel gözüken tasarımlar yapabileceğimi düşünüyorum. 
 
 Projenin backend kısmı: https://github.com/leventsuncar/hrms
 
@@ -12,7 +12,7 @@ Projenin backend kısmı: https://github.com/leventsuncar/hrms
 
 ![iş arayanlar](https://user-images.githubusercontent.com/80010942/124186987-c563da00-dac5-11eb-95c0-2d36f14e304d.PNG)
 
-Burada iş arayanların ufak bir listesi var. Bu liste bilgileri backend JobSeekerDto dan geliyor./
+Burada iş arayanların ufak bir listesi var. Bu liste bilgileri backend JobSeekerDto dan geliyor.
 
 Giriş yap ve kayıt ol butonları görsel olarak doğru çalışıyor.
 Giriş yap butonuna tıklayınca giriş yapmış biri gibi gözüküyoruz ve kayıt ol butonu kayboluyor.
