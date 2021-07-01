@@ -27,7 +27,7 @@ Burası kişi ayrıntıları. Bilgiler JobSeekerCVDto dan geliyor.
 ![İş ilanları tablosu 2](https://user-images.githubusercontent.com/80010942/124187686-dc56fc00-dac6-11eb-9af7-edb98cb61a6a.PNG)
 
 İş ilanları tablosu. İş Pozisyonuna tıklandığında ilan ayrıntıları görülebiliyor.
-Tabloda pagination yok. Altındaki numaralar sadece görsel. Onu da en yakın zamanda yapacağım. Backend de pagination desteği mevcut.7
+Tabloda pagination yok. Altındaki numaralar sadece görsel. Onu da en yakın zamanda yapacağım. Backend de pagination desteği mevcut.
 
 ![ilan ayrıntı](https://user-images.githubusercontent.com/80010942/124187999-54bdbd00-dac7-11eb-97a0-57b8a2759e84.PNG)
 
