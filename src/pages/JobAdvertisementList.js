@@ -16,11 +16,11 @@ export default function JobAdvertisementList() {
             <Table celled>
                 <Table.Header>
                     <Table.Row>
-                        <Table.HeaderCell>Product Name</Table.HeaderCell>
-                        <Table.HeaderCell>Unit Price</Table.HeaderCell>
-                        <Table.HeaderCell>Units in Stoct</Table.HeaderCell>
-                        <Table.HeaderCell>Quantity Per Unit</Table.HeaderCell>
-                        <Table.HeaderCell>Category Name</Table.HeaderCell>
+                        <Table.HeaderCell>İş Pozisyonu</Table.HeaderCell>
+                        <Table.HeaderCell>İş tanımı</Table.HeaderCell>
+                        <Table.HeaderCell>Son Başvuru Tarihi</Table.HeaderCell>
+                        <Table.HeaderCell>Şirket İsmi</Table.HeaderCell>
+                        <Table.HeaderCell>Şehir</Table.HeaderCell>
                     </Table.Row>
                 </Table.Header>
 
